@@ -29,3 +29,8 @@ int main(){
    }
    printf("
 After deleting the duplicate element the Array is:
+");
+   for(i=0;i<number;i++){
+      printf("%d ",a[i]);
+   }
+}
